@@ -1,0 +1,17 @@
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+cmake_install.cmake
+install_manifest.txt
+*.sublime*
+*.a
+*.dat
+*imgs*
+*still*
+.DS_store
+*imgs*
+*results*
+osx_script
+*.ignore
+*.pyc
+*.dSYM
